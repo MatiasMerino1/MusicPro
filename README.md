@@ -1,7 +1,7 @@
 # MusicPro
 Instrucciones de instalado del programa:
 
--Descargar el archivo "semi.rar".
+-Descargar el archivo "avance_fin.rar".
 
 -Descomprimirlo para despues abrir laragon e insertar la carpeta de bodega en la seccion de root de laragon.
 
